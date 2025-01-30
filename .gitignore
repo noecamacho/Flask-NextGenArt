@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignoring UV and Pipenv lock files
+.venv/
+uv.lock
+
+# Ignoring PyCharm files
+.idea/
